@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="background_task_check.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:background_task_check">
+
+</Application>
